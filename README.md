@@ -1,1 +1,1 @@
-# ThreeJS-VirtualGallery1
+# ThreeJS-VirtualGallery
